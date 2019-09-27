@@ -37,3 +37,4 @@ create table if not exists comentario (
 
 insert into lugar (latitud, longitud, nombre) values ('19.324499386445776', '-99.17937085032463', 'Harry');
 insert into lugar (latitud, longitud, nombre) values ('19.324328359583355', '-99.17934268712997', 'Quesadillas');
+insert into lugar (latitud, longitud, nombre) values ('19.324328359583355', '-98.17934268712997', 'Algo!!');
